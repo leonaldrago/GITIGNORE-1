@@ -1,2 +1,5 @@
 new-file.txt
 new-file2.txt
+
+# let 's i want to ignore all the files in the bin folder 
+bin/
